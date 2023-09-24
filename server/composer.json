@@ -1,0 +1,16 @@
+{
+  "autoload": {
+    "psr-4": {
+      "Src\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Nur Hamid",
+      "email": "nurhamidqq@gmail.com"
+    }
+  ],
+  "require": {
+    "vlucas/phpdotenv": "^2.4"
+  }
+}
